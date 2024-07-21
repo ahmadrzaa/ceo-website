@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ceo-website/static/css/main.ec306b27.css",
+    "main.js": "/ceo-website/static/js/main.756432c6.js",
+    "static/js/453.8ab44547.chunk.js": "/ceo-website/static/js/453.8ab44547.chunk.js",
+    "static/media/IMG_20240718_121205.jpg": "/ceo-website/static/media/IMG_20240718_121205.41b79acea037d4bf4f0c.jpg",
+    "static/media/IMG_20240718_121226.jpg": "/ceo-website/static/media/IMG_20240718_121226.11e808ae798d0fef5f85.jpg",
+    "static/media/IMG_20240718_115218.jpg": "/ceo-website/static/media/IMG_20240718_115218.2378a43b0a89e351c0a5.jpg",
+    "static/media/IMG_20240718_121027.jpg": "/ceo-website/static/media/IMG_20240718_121027.ecafad9212c105291345.jpg",
+    "static/media/Abdulla_Al_Hamed_1.jpg": "/ceo-website/static/media/Abdulla_Al_Hamed_1.aad15124dc9ce6d0aa64.jpg",
+    "index.html": "/ceo-website/index.html",
+    "main.ec306b27.css.map": "/ceo-website/static/css/main.ec306b27.css.map",
+    "main.756432c6.js.map": "/ceo-website/static/js/main.756432c6.js.map",
+    "453.8ab44547.chunk.js.map": "/ceo-website/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec306b27.css",
+    "static/js/main.756432c6.js"
+  ]
+}
